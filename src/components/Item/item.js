@@ -13,7 +13,7 @@ const item = (product) => {
               {descr}
             </p>
         </div>
-        <button className='btn btn-primary'>Ver más</button>
+        
     </div>
   )
 }
